@@ -30,7 +30,7 @@
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <a href="#">Aplikasi </a><b>RPS</b>
+    <a href="#">Aplikasi </a><b>RPS riilkahh</b>
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
